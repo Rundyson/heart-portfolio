@@ -28,7 +28,7 @@ function Projects() {
           </div>
 
           <div className="project-card">
-            <img src="/img/host5.jpg" alt="Project Two" />
+            <img src="/img/host5.JPG" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | The HotSpot: Pause or Play</h3>
               <p className="desc">
