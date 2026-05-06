@@ -1,0 +1,12 @@
+.skills-grid {
+  display: flex;
+  gap: 50px;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .skills-grid {
+    flex-direction: column;
+    gap: 20px;
+  }
+}

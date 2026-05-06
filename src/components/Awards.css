@@ -1,0 +1,35 @@
+.awards-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.award-card {
+  background: var(--card);
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+.award-card img {
+width: 100%;
+  height: 300px;
+background-position: center;
+  background-size: cover;
+}
+
+.award-content {
+  padding: 20px;
+}
+
+.award-content span {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .awards-grid {
+    grid-template-columns: 1fr;
+  }
+}
