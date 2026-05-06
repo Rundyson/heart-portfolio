@@ -38,7 +38,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/img/host2.jpg" alt="Project Two" />
+            <img src="/img/host2.JPG" alt="Project Two" />
             <div className="project-content">
               <h3>
                 HOST | CASAMA: STRENGHTHENING FAMILIES THROUGH COMMUNICATION AND
