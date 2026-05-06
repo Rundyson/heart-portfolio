@@ -21,7 +21,7 @@ comprehensive internship to contribute to and gain professional exposure
       </div>
 
       <div className="hero-img">
-        <img src="/public/img/hero.jpg" alt="hero" />
+        <img src="/img/hero.jpg" alt="hero" />
       </div>
     </section>
   );
