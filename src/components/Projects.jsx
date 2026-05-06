@@ -8,7 +8,7 @@ function Projects() {
 
         <div className="projects-grid">
           <div className="project-card">
-            <img src="/public/img/news.jpg" alt="" />
+            <img src="/img/news.jpg" alt="" />
             <div className="project-content">
               <h3>NEWS REPORTER | TV95</h3>
 
@@ -28,7 +28,7 @@ function Projects() {
           </div>
 
           <div className="project-card">
-            <img src="/public/img/host5.jpg" alt="Project Two" />
+            <img src="/img/host5.jpg" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | The HotSpot: Pause or Play</h3>
               <p className="desc">
@@ -38,7 +38,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/public/img/host2.jpg" alt="Project Two" />
+            <img src="/img/host2.jpg" alt="Project Two" />
             <div className="project-content">
               <h3>
                 HOST | CASAMA: STRENGHTHENING FAMILIES THROUGH COMMUNICATION AND
@@ -51,7 +51,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/public/img/host4.jpg" alt="Project Two" />
+            <img src="/img/host4.jpg" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | SPORTFEST 2025</h3>
               <p className="desc">
@@ -61,7 +61,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/public/img/vo.jpg" alt="Project Two" />
+            <img src="/img/vo.jpg" alt="Project Two" />
             <div className="project-content">
               <h3>VO | MITING DE ATRAS ABANTE | MASKOM THEATER PLAY</h3>
               <p className="desc">
@@ -71,7 +71,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/public/img/dj.png" alt="Project Two" />
+            <img src="/img/dj.png" alt="Project Two" />
             <div className="project-content">
               <h3>DJ | ESKWELA | DWMC 107.3</h3>
               <p className="desc">
@@ -81,7 +81,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/public/img/host1.jpg" alt="Project Two" />
+            <img src="/img/host1.jpg" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | MASKOM CHRISTMAS PARTY 2023</h3>
               <p className="desc">
@@ -91,7 +91,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/public/img/host3.jpg" alt="Project Two" />
+            <img src="/img/host3.jpg" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | KWENTONG BARKADA: CAS GENERAL ASSEMBLY</h3>
               <p className="desc">
@@ -107,7 +107,7 @@ function Projects() {
 
         <div className="projects-grid">
        <div className="project-card">
-            <img src="/public/img/edit2.png" alt="" />
+            <img src="/img/edit2.png" alt="" />
             <div className="project-content">
               <h3>EDITOR | TV95</h3>
 
@@ -127,7 +127,7 @@ function Projects() {
             </div>
           </div>
        <div className="project-card">
-            <img src="/public/img/edit.png" alt="" />
+            <img src="/img/edit.png" alt="" />
             <div className="project-content">
               <h3>COLORIST | SONDER FILM PRODUCTION "TATAY BANONG"</h3>
 
@@ -156,7 +156,7 @@ Became one of the Colorist for a student-led documentary film production entitle
 
         <div className="projects-grid">
        <div className="project-card">
-            <img src="/public/img/rs1.png" alt="" />
+            <img src="/img/rs1.png" alt="" />
             <div className="project-content">
               <h3>Scriptwriter and Researcher</h3>
 
@@ -175,7 +175,7 @@ Became one of the Colorist for a student-led documentary film production entitle
             </div>
           </div>
        <div className="project-card">
-            <img src="/public/img/rs2.png" alt="" />
+            <img src="/img/rs2.png" alt="" />
             <div className="project-content">
               <h3>Scriptwriter and Researcher</h3>
 
@@ -204,7 +204,7 @@ Became one of the Colorist for a student-led documentary film production entitle
 
         <div className="projects-grid">
        <div className="project-card">
-            <img src="/public/img/comm.jpg" alt="" />
+            <img src="/img/comm.jpg" alt="" />
             <div className="project-content">
               <h3>COMMUNICATIONS COMMITTEE</h3>
 
@@ -213,7 +213,7 @@ MASKOM Productions, became the coordinator for sponsors and key figures of San P
             </div>
           </div>
        <div className="project-card">
-            <img src="/public/img/writer.jpg" alt="" />
+            <img src="/img/writer.jpg" alt="" />
             <div className="project-content">
               <h3>WRITER, RESEARCHER, AND COLORIST</h3>
 
@@ -234,7 +234,7 @@ Sonder Film Productions A student-led documentary film production that we formed
 
         <div className="projects-grid">
        <div className="project-card">
-            <img src="/public/img/color.png" alt="" />
+            <img src="/img/color.png" alt="" />
             <div className="project-content">
               <h3>COLORIST</h3>
 
