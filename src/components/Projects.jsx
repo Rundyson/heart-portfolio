@@ -51,7 +51,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/img/host4.jpg" alt="Project Two" />
+            <img src="/img/host4.JPG" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | SPORTFEST 2025</h3>
               <p className="desc">
@@ -81,7 +81,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/img/host1.jpg" alt="Project Two" />
+            <img src="/img/host1.JPG" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | MASKOM CHRISTMAS PARTY 2023</h3>
               <p className="desc">
@@ -91,7 +91,7 @@ function Projects() {
             </div>
           </div>
           <div className="project-card">
-            <img src="/img/host3.jpg" alt="Project Two" />
+            <img src="/img/host3.JPG" alt="Project Two" />
             <div className="project-content">
               <h3>HOST | KWENTONG BARKADA: CAS GENERAL ASSEMBLY</h3>
               <p className="desc">
