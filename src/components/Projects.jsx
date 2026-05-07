@@ -203,6 +203,15 @@ Became one of the Colorist for a student-led documentary film production entitle
 </h2>
 
         <div className="projects-grid">
+           <div className="project-card">
+            <img src="/public/img/floor.jpg" alt="" />
+            <div className="project-content">
+              <h3>FLOOR DIRECTOR | SAN PABLO COLLEGES RAVENS' VICTORY PARTY</h3>
+
+              <p className="desc">
+Managed the overall stage design of the San Pablo Colleges Ravens’ Victory Party.            </p>
+            </div>
+          </div>
        <div className="project-card">
             <img src="/img/comm.jpg" alt="" />
             <div className="project-content">
