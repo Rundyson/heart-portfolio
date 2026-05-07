@@ -204,7 +204,7 @@ Became one of the Colorist for a student-led documentary film production entitle
 
         <div className="projects-grid">
            <div className="project-card">
-            <img src="/public/img/floor.jpg" alt="" />
+            <img src="/public/img/floor.JPG" alt="" />
             <div className="project-content">
               <h3>FLOOR DIRECTOR | SAN PABLO COLLEGES RAVENS' VICTORY PARTY</h3>
 
