@@ -23,8 +23,8 @@ function Awards() {
         <div className="award-card">
           <img src="/img/pinoy.png" alt="Certificate" />
           <div className="award-content">
-            <h3>PINOY MEDIA CONGRESS 2025 (PHILIPPINE ASSOSCIATION FOR COMMUNICATION EDUCATORS)</h3>
-            <span>2025</span>
+            <h3>PINOY MEDIA CONGRESS 2026 (PHILIPPINE ASSOSCIATION FOR COMMUNICATION EDUCATORS)</h3>
+            <span>2026</span>
           </div>
         </div>
         <div className="award-card">
